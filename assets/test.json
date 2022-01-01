@@ -1,0 +1,113 @@
+[
+    {
+        "name": "Thành phố Hà Nội",
+        "code": 1,
+        "codename": "thanh_pho_ha_noi",
+        "division_type": "thành phố trung ương",
+        "phone_code": 24,
+        "districts": [
+            {
+            "name": "Quận Ba Đình",
+            "code": 1,
+            "codename": "quan_ba_dinh",
+            "division_type": "quận",
+            "short_codename": "ba_dinh",
+            "wards": [
+              {
+                "name": "Phường Vĩnh Phúc",
+                "code": 6,
+                "codename": "phuong_vinh_phuc",
+                "division_type": "phường",
+                "short_codename": "vinh_phuc"
+              },
+              {
+                "name": "Phường Cống Vị",
+                "code": 7,
+                "codename": "phuong_cong_vi",
+                "division_type": "phường",
+                "short_codename": "cong_vi"
+              }
+            ]
+            },
+            {
+            "name": "Quận Hoàn Kiếm",
+            "code": 2,
+            "codename": "quan_hoan_kiem",
+            "division_type": "quận",
+            "short_codename": "hoan_kiem",
+            "wards": [
+              {
+                "name": "Phường Phúc Tân",
+                "code": 37,
+                "codename": "phuong_phuc_tan",
+                "division_type": "phường",
+                "short_codename": "phuc_tan"
+              },
+              {
+                "name": "Phường Hàng Mã",
+                "code": 43,
+                "codename": "phuong_hang_ma",
+                "division_type": "phường",
+                "short_codename": "hang_ma"
+              }
+              
+            ]
+            }
+        ]
+    },
+    {
+        "name": "Thành phố Hà Nội1",
+        "code": 1,
+        "codename": "thanh_pho_ha_noi",
+        "division_type": "thành phố trung ương",
+        "phone_code": 24,
+        "districts": [
+            {
+            "name": "Quận Ba Đình",
+            "code": 1,
+            "codename": "quan_ba_dinh",
+            "division_type": "quận",
+            "short_codename": "ba_dinh",
+            "wards": [
+              {
+                "name": "Phường Giảng Võ",
+                "code": 31,
+                "codename": "phuong_giang_vo",
+                "division_type": "phường",
+                "short_codename": "giang_vo"
+              },
+              {
+                "name": "Phường Thành Công",
+                "code": 34,
+                "codename": "phuong_thanh_cong",
+                "division_type": "phường",
+                "short_codename": "thanh_cong"
+              }
+            ]
+            },
+            {
+                "name": "Quận Hoàn Kiếm",
+                "code": 2,
+                "codename": "quan_hoan_kiem",
+                "division_type": "quận",
+                "short_codename": "hoan_kiem",
+                "wards": [
+                {
+                    "name": "Phường Phúc Tân",
+                    "code": 37,
+                    "codename": "phuong_phuc_tan",
+                    "division_type": "phường",
+                    "short_codename": "phuc_tan"
+                },
+                {
+                    "name": "Phường Đồng Xuân",
+                    "code": 40,
+                    "codename": "phuong_dong_xuan",
+                    "division_type": "phường",
+                    "short_codename": "dong_xuan"
+                }  
+                ]
+            }
+        ]
+    }
+]
